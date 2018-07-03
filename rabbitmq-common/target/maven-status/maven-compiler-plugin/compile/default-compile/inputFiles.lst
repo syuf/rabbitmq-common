@@ -1,0 +1,8 @@
+D:\eclipse-workspace\rabbitmq-common\src\main\java\com\zlpay\rabbitmq\service\AbstractConfirmProducer.java
+D:\eclipse-workspace\rabbitmq-common\src\main\java\com\zlpay\rabbitmq\service\ProducerService.java
+D:\eclipse-workspace\rabbitmq-common\src\main\java\com\zlpay\rabbitmq\configuration\UserQueueConfiguration.java
+D:\eclipse-workspace\rabbitmq-common\src\main\java\com\zlpay\rabbitmq\enums\QueueEnum.java
+D:\eclipse-workspace\rabbitmq-common\src\main\java\com\zlpay\rabbitmq\configuration\ConnectionFactoryConfiguration.java
+D:\eclipse-workspace\rabbitmq-common\src\main\java\com\zlpay\rabbitmq\service\AbstractProducer.java
+D:\eclipse-workspace\rabbitmq-common\src\main\java\com\zlpay\rabbitmq\enums\ExchangeEnum.java
+D:\eclipse-workspace\rabbitmq-common\src\main\java\com\zlpay\rabbitmq\properties\RabbitmqProperties.java
