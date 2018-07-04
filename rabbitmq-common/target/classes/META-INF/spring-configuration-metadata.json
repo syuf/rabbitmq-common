@@ -28,21 +28,18 @@
     },
     {
       "sourceType": "com.zlpay.rabbitmq.properties.RabbitmqProperties",
-      "defaultValue": false,
       "name": "spring.rabbitmq.publisher-confirms",
       "description": "消息确认",
       "type": "java.lang.Boolean"
     },
     {
       "sourceType": "com.zlpay.rabbitmq.properties.RabbitmqProperties",
-      "defaultValue": false,
       "name": "spring.rabbitmq.publisher-returns",
       "description": "消息回调",
       "type": "java.lang.Boolean"
     },
     {
       "sourceType": "com.zlpay.rabbitmq.properties.RabbitmqProperties",
-      "defaultValue": false,
       "name": "spring.rabbitmq.template-mandatory",
       "description": "mandatory标志位,只有为true,消息回调才会生效",
       "type": "java.lang.Boolean"
