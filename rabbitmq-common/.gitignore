@@ -1,5 +1,4 @@
 /target/
-<<<<<<< HEAD
 /.settings/
 /bin/
 
@@ -7,11 +6,7 @@
 *.classpath
 *.project
 !.mvn/wrapper/maven-wrapper.jar
-=======
-!.mvn/wrapper/maven-wrapper.jar
-<<<<<<< HEAD
-*.project
->>>>>>> branch 'master' of git@github.com:syuf/rabbitmq-common.git
+
 
 ### STS ###
 .apt_generated
